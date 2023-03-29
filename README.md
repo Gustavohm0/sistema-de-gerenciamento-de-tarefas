@@ -1,8 +1,8 @@
 #Sistema de Gerenciamento de Tarefas
 
-div align="center"
-img src="(https://user-images.githubusercontent.com/128197129/228598280-cd42d890-1bab-4acf-88ca-6d841277d1ef.png)" width="0px" /
-/div
+<div align="center">
+<img src="(https://user-images.githubusercontent.com/128197129/228598280-cd42d890-1bab-4acf-88ca-6d841277d1ef.png)" width="0px" /> 
+</div>
 
 ## Descrição
 Este é um sistema de gerenciamento de tarefas que permite aos usuários criar e gerenciar suas tarefas de maneira eficiente. O sistema permite criar tarefas, definir prazos, adicionar notas e categorias, e muito mais. É uma ferramenta simples e fácil de usar que pode ajudar a aumentar a produtividade e organização pessoal.
