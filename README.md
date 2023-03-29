@@ -1,7 +1,7 @@
 #Sistema de Gerenciamento de Tarefas
 
 <div align="center">
-<img src="(https://user-images.githubusercontent.com/128197129/228598280-cd42d890-1bab-4acf-88ca-6d841277d1ef.png)" width="0px" /> 
+<img src="(https://user-images.githubusercontent.com/128197129/228598280-cd42d890-1bab-4acf-88ca-6d841277d1ef.png)" width="700px" /> 
 </div>
 
 ## Descrição
