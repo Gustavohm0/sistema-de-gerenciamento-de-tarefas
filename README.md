@@ -1,6 +1,7 @@
-# Título: Sistema de Gerenciamento de Tarefas
+#Sistema de Gerenciamento de Tarefas
 
-![Imagem de capa] file:///C:/Users/gusta/Downloads/Screenshot%202023-03-29%20at%2012-57-10%20Logo%20Maker%20Used%20By%202.3%20Million%20Startups.png
+![Screenshot 2023-03-29 at 12-57-10 Logo Maker Used By 2 3 Million Startups](https://user-images.githubusercontent.com/128197129/228598280-cd42d890-1bab-4acf-88ca-6d841277d1ef.png)
+
 
 ## Descrição
 Este é um sistema de gerenciamento de tarefas que permite aos usuários criar e gerenciar suas tarefas de maneira eficiente. O sistema permite criar tarefas, definir prazos, adicionar notas e categorias, e muito mais. É uma ferramenta simples e fácil de usar que pode ajudar a aumentar a produtividade e organização pessoal.
