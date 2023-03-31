@@ -24,7 +24,7 @@ Este projeto está em fase de planejamento
 - JavaScript
 
 ## Colaboradores
-- Gustavo 
+- Gustavo Henrique
 - Jonas
 - Vitor 
 
